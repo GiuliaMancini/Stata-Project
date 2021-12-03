@@ -1,6 +1,6 @@
 set more off
 
-log using "C:\Users\luca.corazzini\OneDrive\Desktop\giulia\analis_giulia.smcl", replace
+
 
 use "C:\Users\luca.corazzini\OneDrive\Desktop\giulia\database_giulia_mancini.dta", clear
 
